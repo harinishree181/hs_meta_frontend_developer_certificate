@@ -1,0 +1,1 @@
+# hs_meta_frontend_developer_certificate
